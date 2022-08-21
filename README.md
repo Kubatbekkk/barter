@@ -7,4 +7,4 @@
 - базовые иконки от Linea.io
 
 # проект был развернут с помощью "Continuous Deployment" на Netlify.com
-# ссылка на проект <a href="https://barterr.netlify.app/">Barter</a>
+# ссылка на проект <a href="https://barterr.netlify.app/" target="_blank">Barter</a>
