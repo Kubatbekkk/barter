@@ -1,10 +1,4 @@
 # Barter
-# проект был выполнен в учебных целях для портфолио
-# функционал не был реализован ни в каком виде, так как целью была только верстка
-# были использованы : 
-- HTML/CSS
-- препроцессор Sass
-- базовые иконки от Linea.io
+Barter project was created for portfolio purposes, using HTML/CSS, Sass preprocessor, Linea.io icons, and displayed using CSS Grid. Deployed via Continuous Deployment on Netlify.com. No functional implementation was done.
 
-# проект был развернут с помощью "Continuous Deployment" на Netlify.com
-# ссылка на проект <a href="https://barterr.netlify.app/" target="_blank">Barter</a>
+Deploy: <a href="https://barterr.netlify.app/" target="_blank">Barter</a>
